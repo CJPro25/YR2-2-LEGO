@@ -3,7 +3,57 @@ guid: 14cb81e86651a9b479021f394f2da215
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PEARL-FLAT_SILVER
+    second: {fileID: 2100000, guid: d2c4c7083cdc07e4f8ac78eedd4754c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RUBBER-BLACK
+    second: {fileID: 2100000, guid: ed7774e6c3a914743898ba0a5ae9ba0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SOLID-BLACK
+    second: {fileID: 2100000, guid: 926823f90777d1a4c834070c8678d57f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SOLID-DARK_BLUISH_GRAY
+    second: {fileID: 2100000, guid: 7dde6daf9ab231944835b6e3ce12377b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SOLID-LIGHT_BLUISH_GRAY
+    second: {fileID: 2100000, guid: 57d9127b56ede534b81a8d53167f694b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SOLID-RED
+    second: {fileID: 2100000, guid: bcf3227dd38af864ea8049b0f02f667e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SOLID-TAN
+    second: {fileID: 2100000, guid: 9f10062c52967b24fadeee426ab14a12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SOLID-WHITE
+    second: {fileID: 2100000, guid: fb73845ec437f534a9dde4e39f68f967, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SOLID-YELLOW
+    second: {fileID: 2100000, guid: 2539e0da5b922e5498d7325f94f725d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRANS-CLEAR
+    second: {fileID: 2100000, guid: c7fae6f4227480f4e8a841987ebe3c18, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
