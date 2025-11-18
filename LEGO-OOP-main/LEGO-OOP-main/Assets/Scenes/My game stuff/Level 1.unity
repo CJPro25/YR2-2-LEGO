@@ -478,6 +478,74 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81c090246952449b7afa82f80664fc4d, type: 3}
+--- !u!1001 &2144843205
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 14cb81e86651a9b479021f394f2da215,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 321.97354
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 14cb81e86651a9b479021f394f2da215,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 337.1388
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 14cb81e86651a9b479021f394f2da215,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 18.87296
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 14cb81e86651a9b479021f394f2da215,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 14cb81e86651a9b479021f394f2da215,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 14cb81e86651a9b479021f394f2da215,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 14cb81e86651a9b479021f394f2da215,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 14cb81e86651a9b479021f394f2da215,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 14cb81e86651a9b479021f394f2da215,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 14cb81e86651a9b479021f394f2da215,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 14cb81e86651a9b479021f394f2da215,
+        type: 3}
+      propertyPath: m_Name
+      value: Phantom Belle
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 14cb81e86651a9b479021f394f2da215, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -486,3 +554,4 @@ SceneRoots:
   - {fileID: 988713027}
   - {fileID: 525678998}
   - {fileID: 1277111680}
+  - {fileID: 2144843205}
